@@ -1,0 +1,11 @@
+# Ignore data and model files
+data/
+models/
+*.csv
+*.pkl
+*.joblib
+
+# Ignore Python cache and environments
+__pycache__/
+venv/
+.env/
